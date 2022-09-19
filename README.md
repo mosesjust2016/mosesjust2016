@@ -23,7 +23,7 @@
         <br />
         <h3>Twitter</h3>
         <a href="https://twitter.com/JustMoses2017">
-          <img src="https://img.shields.io/twitter/follow/DunsinWebDev?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
+          <img src="https://img.shields.io/twitter/follow/JustMoses2017?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
        </p>
     </td>
     <td>
