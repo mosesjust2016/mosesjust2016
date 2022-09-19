@@ -1,3 +1,39 @@
+[![profile Header](https://user-images.githubusercontent.com/78784850/185071059-bcedf7d4-3038-404e-ad0f-4837bb2120d0.png)](https://dunsin.vercel.app/)
+## Wonderful Intro
+
+<table>
+  <tr>
+    <td valign="center">
+      <a href="https://dunsin.vercel.app/">
+        <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
+      <p>
+        <h3>Hello👋🏾</h3>
+        👀 &nbsp;I love to build projects, make life easier and fun with code.
+        <br/>
+        🚀 &nbsp;I love contributing to Opensource.
+        <br/>
+        🙂 &nbsp; I'm a content creator on Instagram.
+        <br/>
+        💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
+        <br/>
+        <br />
+        <h3>Sponsor Me🤝🏽</h3>
+        <a href="https://www.buymeacoffee.com/dunsincodes"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
+        <br/>
+        <br />
+        <h3>Twitter & Discord Community</h3>
+        <a href="https://discord.gg/KUWjx4fygJ"><img src="https://user-images.githubusercontent.com/78784850/183430195-ed36310d-90f6-4ccc-9a68-a1d00457d451.png" width="220" alt="Community Link"/></a>
+        <br/>
+        <a href="https://twitter.com/DunsinWebDev">
+          <img src="https://img.shields.io/twitter/follow/DunsinWebDev?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
+       </p>
+    </td>
+    <td>
+      <a href="https://app.daily.dev/dunsinCodes"><img src="https://api.daily.dev/devcards/081386d99cd3447ea5eed27f914a8f78.png?r=smv" width="400" alt="Dunsin's Dev Card"/></a>
+    </td>
+  </tr>
+</table>
+
 <h1 align="center">Hi 👋, I'm Moses Jasi</h1>
 <h3 align="center">A passionate FullStack Engineer Currenlty living in  Zambia</h3>
 
