@@ -146,14 +146,54 @@
     </td>
     <td>
       <p align="center">
-        <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
+        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="36" height="36" alt="PostGreSQL" />
         </a>
-        <p align="center">React</p>
+        <p align="center">PostGreSQL</p>
       </p>
     </td>
    
   </tr>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  <tr>
+  <td>
+      <p align="center">
+        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36" height="36" alt="MySql" />
+      </a>
+        <p align="center">Mysql</p>
+      </p>
+    </td>
+    <td>             
+      <p align="center">
+        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="36" height="36" alt="Firebase"/>
+        </a>
+        <p align="center">Firebase</p>
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="36" height="36" alt="Elastic" />
+        </a>
+        <p align="center">Elastic</p>
+      </p>
+    </td>
+   
+  </tr>
+  
+  
+  
   <tr>
     <td>
       <p align="center">
