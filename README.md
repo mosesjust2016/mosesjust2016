@@ -40,7 +40,7 @@
       <a href="https://github.com/mosesjust2016"><img alt="Moses Github Stats" src="https://github-readme-stats.vercel.app/api?username=mosesjust2016&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
     </td>
     <td>
-      <a href="http://www.github.com/mosesjust2016"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Dun-sin&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+      <a href="http://www.github.com/mosesjust2016"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mosesjust2016&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
     </td>
     <td>
       <a href="https://github.com/mosesjust2016"><img alt="mosesjust2016 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosesjust2016&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
