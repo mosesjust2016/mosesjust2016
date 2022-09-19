@@ -58,7 +58,7 @@
     <td>           
       <p align="center">
         <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c#-colored.svg" width="36" height="36" alt="C#" />
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
       </a>
         <p align="center">C#</p>
       </p>
@@ -102,10 +102,10 @@
   <tr>
     <td>      
       <p align="center">
-        <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" />
+        <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
         </a>
-        <p align="center">Tailwind</p>
+        <p align="center">Bython</p>
       </p>
     </td>
     <td>            
@@ -118,10 +118,10 @@
     </td>
     <td>           
       <p align="center">
-        <a href="https://expressjs.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
+        <a href="https://laravel.com/docs/9.x" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" />
         </a>
-        <p align="center">ExpressJS</p>
+        <p align="center">Laravel</p>
       </p>
     </td>
   </tr>
@@ -145,20 +145,20 @@
     </td>
     <td>           
       <p align="center">
-        <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" />
+        <a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="XD" />
       </a>
-        <p align="center">Adobe XD</p>
+        <p align="center">Flutter</p>
       </p>
     </td>
   </tr>
   <tr>
     <td>
       <p align="center">
-          <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" />
+          <a href="https://symfony.com/doc/current/index.html" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/symfony-colored.svg" width="36" height="36" alt="Firebase" />
           </a>
-        <p align="center">Firebase</p>
+        <p align="center">Symfony</p>
       </p>      
     </td>
     <td>
@@ -171,10 +171,10 @@
     </td>
     <td>
       <p align="center">
-        <a href="https://sass-lang.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" />
+        <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sql-server-colored.svg" width="36" height="36" alt="Sass" />
       </a>
-        <p align="center">SASS</p>
+        <p align="center">MS SQL Server</p>
       </p>
     </td>
   </tr>
