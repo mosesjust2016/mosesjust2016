@@ -131,7 +131,7 @@
   <td>
       <p align="center">
         <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer">
-          <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="36" height="36" alt="Sass" />
+          <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="36" height="36" alt="MS SQL Server" />
       </a>
         <p align="center">MS SQL Server</p>
       </p>
@@ -175,8 +175,8 @@
     </td>
     <td>             
       <p align="center">
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="36" height="36" alt="Firebase"/>
+        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="36" height="36" alt="Firebase"/>
         </a>
         <p align="center">Firebase</p>
       </p>
@@ -222,4 +222,15 @@
     
   </tr>
 </table>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Dun-sin&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
+
+## Connect with me:
+
+<p align="center">
+  <a href = "https://www.linkedin.com/in/moses-jasi-21bb7152"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://twitter.com/JustMoses2017"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/mjjustme"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+</p>
+
 
