@@ -63,22 +63,23 @@
         <p align="center">C#</p>
       </p>
     </td>
-    <td>
-      <p align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-        </a>
-        <p align="center">HTML5</p>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td>            
+     <td>            
       <p align="center">
         <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="NextJs" />
       </a>
         <p align="center">Java</p>
+      </p>
+    </td>
+   
+  </tr>
+  <tr>
+   <td>
+      <p align="center">
+        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
+        </a>
+        <p align="center">HTML5</p>
       </p>
     </td>
     <td>
@@ -105,7 +106,7 @@
         <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer">
           <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
         </a>
-        <p align="center">Bython</p>
+        <p align="center">Python</p>
       </p>
     </td>
     <td>            
@@ -127,10 +128,18 @@
   </tr>
 
   <tr>
+  <td>
+      <p align="center">
+        <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer">
+          <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="36" height="36" alt="Sass" />
+      </a>
+        <p align="center">MS SQL Server</p>
+      </p>
+    </td>
     <td>             
       <p align="center">
         <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB"/>
         </a>
         <p align="center">MongoDB</p>
       </p>
@@ -143,14 +152,7 @@
         <p align="center">React</p>
       </p>
     </td>
-    <td>           
-      <p align="center">
-        <a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="XD" />
-      </a>
-        <p align="center">Flutter</p>
-      </p>
-    </td>
+   
   </tr>
   <tr>
     <td>
@@ -169,14 +171,15 @@
         <p align="center">Figma</p>
       </p>
     </td>
-    <td>
+     <td>           
       <p align="center">
-        <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer">
-          <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="36" height="36" alt="Sass" />
+        <a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="XD" />
       </a>
-        <p align="center">MS SQL Server</p>
+        <p align="center">Flutter</p>
       </p>
     </td>
+    
   </tr>
 </table>
 
