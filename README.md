@@ -49,18 +49,18 @@
   <tr>
     <td>
       <p align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="JavaScript" />
+        <a href="https://www.php.net/docs.php" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
         </a>
-        <p align="center">JavaScript</p>
+        <p align="center">PHP</p>
       </p>
     </td>
     <td>           
       <p align="center">
-        <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
+        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c#-colored.svg" width="36" height="36" alt="C#" />
       </a>
-        <p align="center">TypeScript</p>
+        <p align="center">C#</p>
       </p>
     </td>
     <td>
@@ -75,18 +75,18 @@
   <tr>
     <td>            
       <p align="center">
-        <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" />
+        <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="NextJs" />
       </a>
-        <p align="center">NextJS</p>
+        <p align="center">Java</p>
       </p>
     </td>
     <td>
       <p align="center">
-        <a href="https://redux.js.org/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
+        <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
+          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
       </a>
-        <p align="center">Redux</p>
+        <p align="center">JavaScript</p>
       </p>
     </td>
     <td>
