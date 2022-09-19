@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td valign="center">
-      <a href="https://dunsin.vercel.app/">
+      <a href="https://mosesjasi.co/">
         <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
       <p>
         <h3>Hello👋🏾</h3>
@@ -12,24 +12,22 @@
         <br/>
         🚀 &nbsp;I love contributing to Opensource.
         <br/>
-        🙂 &nbsp; I'm a content creator on Instagram.
+        🙂 &nbsp; I'm a Senior Software Engineer.
         <br/>
         💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
         <br/>
         <br />
         <h3>Sponsor Me🤝🏽</h3>
-        <a href="https://www.buymeacoffee.com/dunsincodes"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
+        <a href="https://www.buymeacoffee.com/mjjustme26f"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
         <br/>
         <br />
-        <h3>Twitter & Discord Community</h3>
-        <a href="https://discord.gg/KUWjx4fygJ"><img src="https://user-images.githubusercontent.com/78784850/183430195-ed36310d-90f6-4ccc-9a68-a1d00457d451.png" width="220" alt="Community Link"/></a>
-        <br/>
-        <a href="https://twitter.com/DunsinWebDev">
+        <h3>Twitter</h3>
+        <a href="https://twitter.com/JustMoses2017">
           <img src="https://img.shields.io/twitter/follow/DunsinWebDev?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
        </p>
     </td>
     <td>
-      <a href="https://app.daily.dev/dunsinCodes"><img src="https://api.daily.dev/devcards/081386d99cd3447ea5eed27f914a8f78.png?r=smv" width="400" alt="Dunsin's Dev Card"/></a>
+      <a href="#"><img src="https://res.cloudinary.com/mjjustme/image/upload/v1658766461/mjjustme26/93699-coding_k6uuxf.gif" width="400" alt="Moses Dev Card"/></a>
     </td>
   </tr>
 </table>
