@@ -4,7 +4,7 @@
 <table>
   <tr>
     <td valign="center">
-      <a href="https://mosesjasi.co/">
+      <a href="https://mosesjasi.tk/">
         <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
       <p>
         <h3>Hello👋🏾</h3>
