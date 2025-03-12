@@ -1,10 +1,12 @@
-[![profile Header](https://res.cloudinary.com/mjjustme/image/upload/v1663750431/mjjustme26/WhatsApp_Image_2022-09-21_at_10.16.10_d6dffj.jpg)](http://mosesjasi.co/)
+
+![profile Header](https://res.cloudinary.com/mjjustme/image/upload/v1741781692/mfkwvpilnsfbnpcgfcid.png)
+
 ## Wonderful Intro
 
 <table>
   <tr>
     <td valign="center">
-      <a href="https://mosesjasi.biz/">
+      <a href="https://next-js-portifolio-nine.vercel.app/">
         <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
       <p>
         <h3>Hello👋🏾</h3>
@@ -12,7 +14,7 @@
         <br/>
         🚀 &nbsp;I love contributing to Opensource.
         <br/>
-        🙂 &nbsp; I'm a Senior Software Engineer.
+        🙂 &nbsp; I'm a Senior Product Engineer.
         <br/>
         💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
         <br/>
@@ -32,8 +34,8 @@
   </tr>
 </table>
 
-
 ## My Github Stats && Technologies I use:
+
 <table>
   <tr>
     <td>
@@ -156,14 +158,6 @@
   </tr>
   
   
-  
-  
-  
-  
-  
-  
-  
-  
   <tr>
   <td>
       <p align="center">
@@ -183,54 +177,13 @@
     </td>
     <td>
       <p align="center">
-        <a href="https://www.elastic.co" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="36" height="36" alt="Elastic" />
+        <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
+          <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="36" height="36" alt="RabbitMQ" />
         </a>
-        <p align="center">Elastic</p>
+        <p align="center">RabbitMQ</p>
       </p>
     </td>
    
-  </tr>
-  
-  
-  
-  <tr>
-    <td>
-      <p align="center">
-          <a href="https://symfony.com/doc/current/index.html" target="_blank" rel="noreferrer">
-          <img src="https://symfony.com/logos/symfony_black_03.svg" width="36" height="36" alt="Firebase" />
-          </a>
-        <p align="center">Symfony</p>
-      </p>      
-    </td>
-    <td>
-      <p align="center">
-        <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" />
-        </a>
-        <p align="center">Figma</p>
-      </p>
-    </td>
-     <td>           
-      <p align="center">
-        <a href="https://docs.flutter.dev/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="36" height="36" alt="XD" />
-      </a>
-        <p align="center">Flutter</p>
-      </p>
-    </td>
-    
-  </tr>
+  </tr>  
+
 </table>
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mosesjust2016&bg_color=1d2a3a&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true)
-
-## Connect with me:
-
-<p align="center">
-  <a href = "https://www.linkedin.com/in/moses-jasi-21bb7152"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/JustMoses2017"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/mjjustme"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-</p>
-
-
