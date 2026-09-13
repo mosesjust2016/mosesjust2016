@@ -1,189 +1,165 @@
+# 👋🏾 Hi, I'm Moses Jasi
 
-![profile Header](https://res.cloudinary.com/mjjustme/image/upload/v1741781692/mfkwvpilnsfbnpcgfcid.png)
+### Senior Product Engineer · FinTech · Backend · AI Engineering
 
-## Wonderful Intro
+I build **production-grade software, payment infrastructure, and AI-powered systems** that solve real business problems.
 
-<table>
-  <tr>
-    <td valign="center">
-      <a href="https://next-js-portifolio-nine.vercel.app/">
-        <img src="https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white" alt="My Portfolio"/></a>
-      <p>
-        <h3>Hello👋🏾</h3>
-        👀 &nbsp;I love to build projects, make life easier and fun with code.
-        <br/>
-        🚀 &nbsp;I love contributing to Opensource.
-        <br/>
-        🙂 &nbsp; I'm a Senior Product Engineer.
-        <br/>
-        💞️ &nbsp;Follow me on github to stay tuned on my amazing projects.
-        <br/>
-        <br />
-        <h3>Sponsor Me🤝🏽</h3>
-        <a href="https://www.buymeacoffee.com/mjjustme26f"><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="220" alt="support me by buying me a coffee" /> <a/>
-        <br/>
-        <br />
-        <h3>Twitter</h3>
-        <a href="https://twitter.com/JustMoses2017">
-          <img src="https://img.shields.io/twitter/follow/JustMoses2017?color=0F182A&logo=twitter&style=for-the-badge" alt="Twitter Follow Badge"/></a>
-       </p>
-    </td>
-    <td>
-      <a href="#"><img src="https://res.cloudinary.com/mjjustme/image/upload/v1658766461/mjjustme26/93699-coding_k6uuxf.gif" width="400" alt="Moses Dev Card"/></a>
-    </td>
-  </tr>
-</table>
+My work sits at the intersection of **software engineering, fintech, product development, and AI** — from designing payment APIs and financial workflows to building intelligent agents and automation systems.
 
-## My Github Stats && Technologies I use:
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://next-js-portifolio-nine.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mosesjust2016)
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/mosesjust2016"><img alt="Moses Github Stats" src="https://github-readme-stats.vercel.app/api?username=mosesjust2016&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=1d2a3a" /></a>
-    </td>
-    <td>
-      <a href="http://www.github.com/mosesjust2016"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mosesjust2016&stroke=ffffff&background=1d2a3a&ring=5BCDEC&fire=5BCDEC&currStreakNum=ffffff&currStreakLabel=5BCDEC&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-    </td>
-    <td>
-      <a href="https://github.com/mosesjust2016"><img alt="mosesjust2016 Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mosesjust2016&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=1d2a3a"/></a>
-    </td>
-  <tr>
-  <tr>
-    <td>
-      <p align="center">
-        <a href="https://www.php.net/docs.php" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" />
-        </a>
-        <p align="center">PHP</p>
-      </p>
-    </td>
-    <td>           
-      <p align="center">
-        <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
-      </a>
-        <p align="center">C#</p>
-      </p>
-    </td>
-     <td>            
-      <p align="center">
-        <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="NextJs" />
-      </a>
-        <p align="center">Java</p>
-      </p>
-    </td>
-   
-  </tr>
-  <tr>
-   <td>
-      <p align="center">
-        <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" />
-        </a>
-        <p align="center">HTML5</p>
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <a href="https://www.javascript.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
-      </a>
-        <p align="center">JavaScript</p>
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" />
-      </a>
-        <p align="center">CSS</p>
-      </p>
-    </td>
-  </tr>
+---
 
-  <tr>
-    <td>      
-      <p align="center">
-        <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-        </a>
-        <p align="center">Python</p>
-      </p>
-    </td>
-    <td>            
-      <p align="center">
-        <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-      </a>
-        <p align="center">NodeJS</p>
-      </p>
-    </td>
-    <td>           
-      <p align="center">
-        <a href="https://laravel.com/docs/9.x" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" />
-        </a>
-        <p align="center">Laravel</p>
-      </p>
-    </td>
-  </tr>
+## 🚀 What I Build
 
-  <tr>
-  <td>
-      <p align="center">
-        <a href="https://www.microsoft.com/en-us/sql-server/" target="_blank" rel="noreferrer">
-          <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="36" height="36" alt="MS SQL Server" />
-      </a>
-        <p align="center">MS SQL Server</p>
-      </p>
-    </td>
-    <td>             
-      <p align="center">
-        <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB"/>
-        </a>
-        <p align="center">MongoDB</p>
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="36" height="36" alt="PostGreSQL" />
-        </a>
-        <p align="center">PostGreSQL</p>
-      </p>
-    </td>
-   
-  </tr>
-  
-  
-  <tr>
-  <td>
-      <p align="center">
-        <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="36" height="36" alt="MySql" />
-      </a>
-        <p align="center">Mysql</p>
-      </p>
-    </td>
-    <td>             
-      <p align="center">
-        <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="36" height="36" alt="Firebase"/>
-        </a>
-        <p align="center">Firebase</p>
-      </p>
-    </td>
-    <td>
-      <p align="center">
-        <a href="https://www.rabbitmq.com/" target="_blank" rel="noreferrer">
-          <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" width="36" height="36" alt="RabbitMQ" />
-        </a>
-        <p align="center">RabbitMQ</p>
-      </p>
-    </td>
-   
-  </tr>  
+I enjoy taking complex business problems and turning them into reliable software products.
 
-</table>
+### 💳 FinTech & Payments
+
+- Payment gateways and payment orchestration
+- Mobile money integrations
+- Merchant onboarding and KYC
+- Collections and disbursements
+- Payment reconciliation
+- Wallet and ledger systems
+- Cross-border payment infrastructure
+- Stablecoin-based settlement workflows
+- Banking and payment provider integrations
+- Transaction monitoring and financial reporting
+
+### 🤖 AI Engineering
+
+- AI agents
+- LLM-powered applications
+- Retrieval-Augmented Generation (RAG)
+- Document processing
+- Intelligent workflow automation
+- AI-powered business processes
+- OpenAI, Claude and Gemini integrations
+- AI-assisted decision systems
+
+### ⚙️ Software Engineering
+
+- Backend architecture
+- REST APIs
+- Microservices
+- Distributed systems
+- Event-driven architecture
+- Authentication & authorization
+- Database architecture
+- API integrations
+- Cloud deployments
+- System observability and monitoring
+
+---
+
+## 🧠 My Engineering Philosophy
+
+> **Build software that solves the business problem, not software that simply demonstrates technology.**
+
+I care about:
+
+- 🏗️ Clean and maintainable architecture
+- 🔐 Security
+- ⚡ Performance
+- 📈 Scalability
+- 💰 Business impact
+- 🧪 Testing and reliability
+- 📊 Observability
+- 🤝🏾 Mentoring and knowledge sharing
+
+I particularly enjoy working on systems where **money, data, APIs and automation have to work reliably together.**
+
+---
+
+## 🛠️ Technology Stack
+
+### Backend
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+
+### AI & Automation
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+
+**LLMs · AI Agents · RAG · Workflow Automation · Document Processing · Intelligent APIs**
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+### Architecture & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Docker · REST APIs · Microservices · Event-Driven Systems · CI/CD · Cloud Infrastructure**
+
+### Frontend & Mobile
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
+
+---
+
+# 💼 Selected Areas of Work
+
+## 💳 Payment Infrastructure
+
+I've worked on payment systems involving:
+
+**Mobile Money → Payment Gateway → Merchant Wallet → Settlement → Reconciliation**
+
+Areas include:
+
+- Merchant management
+- KYC
+- Payment collection
+- Disbursements
+- Refunds
+- Payment links
+- QR payments
+- Wallet management
+- Transaction reconciliation
+- Provider validation
+- Bulk payments
+- Financial reporting
+
+---
+
+## 🌍 Cross-Border Payments
+
+I'm particularly interested in solving the complexity of **cross-border payments in Africa**.
+
+This includes exploring architectures involving:
+
+```text
+Business
+   │
+   ▼
+Payment Platform
+   │
+   ├── Local Currency
+   │
+   ├── Stablecoin Settlement
+   │
+   └── Payment Provider
+          │
+          ▼
+     Local Currency
+          │
+          ▼
+   Service Provider
